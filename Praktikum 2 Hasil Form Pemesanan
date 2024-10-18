@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pesanan</title>
+</head>
+<body>
+    <h1>Thank You For Order!</h1>
+    
+    <h4>Pesanan Anda</h4>
+    <p>DESKIPSI: Polytron 32 PLD 32V1853 Keluaran 2015 dengan Kondisi Barang 
+        harus sesuai dengan gambar</p>
+    <p>Nomor Akun: 123-456-789-0</p>
+    <p>Bank: BNI</p>
+    <p>Pemegang Akun: yantielnaya</p>
+    <p>Transaski: 1</p>
+    <p>Telepon: 1234567890</p>
+    <p>E-mail: yantielnayaputri@gmail.com</p>
+
+</body>
+</html>
